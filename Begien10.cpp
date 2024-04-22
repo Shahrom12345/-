@@ -6,15 +6,15 @@ using namespace std;
 
 int main()
 {
-    float a,b,jam, tarh, zarb, taqsim;
-    cout<<"a=";
-    cin>>a;
-    cout<<"b=";
-    cin>>b;
-    jam=a*a+b*b;
-    tarh=a*a-b*b;
-    zarb=a*a*b*b;
-    taqsim=a*a/b*b;
+    float c,d,jam, tarh, zarb, taqsim;
+    cout<<"c=";
+    cin>>c;
+    cout<<"d=";
+    cin>>d;
+    jam=c*c+d*d;
+    tarh=c*c-d*d;
+    zarb=c*c*d*d;
+    taqsim=c*c/d*d;
     cout<<"jam= "<<jam << endl;
     cout << "tarh= " << tarh << endl;
     cout << "zarb= " << zarb << endl;
