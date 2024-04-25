@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    float c,d,jam, tarh, zarb, taqsim;
+    float c,d,JAM, TARH, ZARB, TAKSIM;
     cout<<"c=";
     cin>>c;
     cout<<"d=";
@@ -15,9 +15,9 @@ int main()
     tarh=c*c-d*d;
     zarb=c*c*d*d;
     taqsim=c*c/d*d;
-    cout<<"jam= "<<jam << endl;
-    cout << "tarh= " << tarh << endl;
-    cout << "zarb= " << zarb << endl;
-    cout << "taqsim= " << taqsim ;
+    cout<<"JAM= "<<JAM << endl;
+    cout << "TARH= " << TARH << endl;
+    cout << "ZARB= " << ZARB << endl;
+    cout << "TAKSIM= " << TAKSIM;
 
 }
